@@ -1,0 +1,11 @@
+Package: demopack
+Type: Package
+Title: cube the number
+Version: 0.1.0
+Author: Mughal
+Maintainer: Mughal <mughal2791@gmail.com>
+Description: cube the input
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
